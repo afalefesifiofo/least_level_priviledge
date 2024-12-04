@@ -1,0 +1,55 @@
+{
+  "users": {
+    "Jeannette": {
+      "Niveau3": "rwx"
+    },
+    "Magally": {
+      "Niveau3": "x"
+    },
+    "Moyo": {
+      "Niveau3": "r"
+    },
+    "Branktor": {
+      "Niveau2": "r"
+    },
+    "Kinfack": {
+      "Niveau1": "r",
+      "Niveau2": "rw"
+    },
+    "Domguia": {
+      "Niveau1": "x"
+    },
+    "Joseph": {
+      "Niveau2": "rwx",
+      "Niveau1": "r"
+    },
+    "Abena": {
+      "Niveau2": "r",
+      "Niveau1": "rw"
+    },
+    "Bosco": {
+      "Niveau2": "rx",
+      "Niveau1": "r"
+    },
+    "Nams": {
+      "Niveau1": "rwx"
+    }
+  },
+  "groups": {
+    "Niveau3": [
+      "Recherce",
+      "Sécurité",
+      "Armement"
+    ],
+    "Niveau2": [
+      "Développement",
+      "Maintenance",
+      "Acquisition"
+    ],
+    "Niveau1": [
+      "Graphiques",
+      "Finances",
+      "HR"
+    ]
+  }
+}
